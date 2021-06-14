@@ -1,0 +1,17 @@
+body {
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+
+a {
+	color: red;
+	text-decoration-line: none;
+}
+
+p {
+	color: white;
+	background-color: white;
+}
+
+.sidebar{ float:right; padding: 15px 20px 15px;}
